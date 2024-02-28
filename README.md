@@ -1,1 +1,3 @@
 # BSc-Essay-Project
+
+Abstract: The Black-Scholes-Merton option pricing model is widely used in finance. A core assumption of the model is that stock price movements follow a geometric Brownian motion and that stock prices are log-normally distributed. However, in real financial markets here is excessive kurtosis, ’fat-tails’, in the stock market that results from investor interaction such that stock prices are better fitted by a stable distribution. These fat tails cause the Black-Scholes-Merton model to under-price options that are deep out of the money. Investors account for this with an increased implied volatility for these options resulting in a volatility smile.
